@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>keras on Ameya Godbole</title>
+    <link>https://ameyagodbole.github.io/tags/keras/</link>
+    <description>Recent content in keras on Ameya Godbole</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 30 May 2017 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://ameyagodbole.github.io/tags/keras/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DEep Semantic Kernel (DESK)</title>
+      <link>https://ameyagodbole.github.io/project/desk/</link>
+      <pubDate>Tue, 30 May 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://ameyagodbole.github.io/project/desk/</guid>
+      <description>Mentors: Dr. Amit Sethi (Dept. of EEE, IIT Bombay), Neeraj K. Vaid
+Collaborator: Aman Dalmia
+We attempted transfer learning between a convolutional neural network (CNN) in the source domain and maximum margin classifiers in the low-data target domain. Our goal was to leverage the capabilities of the CNN trained on large amounts of training data, especially in image classification tasks, in other tasks with limited data.
+The project ongoing at Dr.</description>
+    </item>
+    
+    <item>
+      <title>Quora Question Pairs</title>
+      <link>https://ameyagodbole.github.io/project/quora_question_pairs/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://ameyagodbole.github.io/project/quora_question_pairs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

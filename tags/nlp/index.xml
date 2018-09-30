@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NLP on Ameya Godbole</title>
+    <link>https://ameyagodbole.github.io/tags/nlp/</link>
+    <description>Recent content in NLP on Ameya Godbole</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 28 Jan 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://ameyagodbole.github.io/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Siamese Neural Networks with Random Forest for detecting duplicate question pairs</title>
+      <link>https://ameyagodbole.github.io/publication/quora_question_pairs/</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://ameyagodbole.github.io/publication/quora_question_pairs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quora Question Pairs</title>
+      <link>https://ameyagodbole.github.io/project/quora_question_pairs/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://ameyagodbole.github.io/project/quora_question_pairs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

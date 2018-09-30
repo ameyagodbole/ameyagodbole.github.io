@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Ameya Godbole</title>
+    <link>https://ameyagodbole.github.io/home/</link>
+    <description>Recent content in Homes on Ameya Godbole</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://ameyagodbole.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://ameyagodbole.github.io/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://ameyagodbole.github.io/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ameyagodbole.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://ameyagodbole.github.io/home/about/</guid>
+      <description>Biography During the sophomore year of my undergraduate degree, I developed an interest in Machine Learning and Artificial Intelligence. Consequently, I tried to understand the theory of machine learning as well as apply the same . My attempts at grasping the theory have been through extracurricular courses, majorly on Coursera, MIT Opencourseware and Stanford Online. Most notably, I worked on &amp;ldquo;neural&amp;rdquo; decision trees for my Bachelor&amp;rsquo;s thesis. I am eager to explore the different avenues of machine learning.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ameyagodbole.github.io/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://ameyagodbole.github.io/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://ameyagodbole.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://ameyagodbole.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://ameyagodbole.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://ameyagodbole.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://ameyagodbole.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://ameyagodbole.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://ameyagodbole.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://ameyagodbole.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://ameyagodbole.github.io/home/search/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://ameyagodbole.github.io/home/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ameyagodbole.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://ameyagodbole.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

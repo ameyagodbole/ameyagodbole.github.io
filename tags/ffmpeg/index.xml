@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ffmpeg on Ameya Godbole</title>
+    <link>https://ameyagodbole.github.io/tags/ffmpeg/</link>
+    <description>Recent content in ffmpeg on Ameya Godbole</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 01 Jun 2017 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://ameyagodbole.github.io/tags/ffmpeg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Commercial Segmentation in Television Stream</title>
+      <link>https://ameyagodbole.github.io/project/commercial_segmentation_in_television_stream/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://ameyagodbole.github.io/project/commercial_segmentation_in_television_stream/</guid>
+      <description>Mentor: Dr. Prithwijit Guha (Dept. of EEE, IIT Guwahati)
+The problem of detecting when a television stream has switched from content to commercials (advertisements) is difficult because of the wide range of presentation formats available. Even trickier is detecting inter-commercial transitions. Once these transitions are accurately predicted, methods can be developed to further identify the product being advertised. This problem is of importance to companies and advertisers both, as it helps provide credibility to the claimed number times a particular commercial was broadcasted.</description>
+    </item>
+    
+  </channel>
+</rss>

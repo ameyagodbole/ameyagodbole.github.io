@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pandas on Ameya Godbole</title>
+    <link>https://ameyagodbole.github.io/tags/pandas/</link>
+    <description>Recent content in pandas on Ameya Godbole</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 01 May 2017 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://ameyagodbole.github.io/tags/pandas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quora Question Pairs</title>
+      <link>https://ameyagodbole.github.io/project/quora_question_pairs/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://ameyagodbole.github.io/project/quora_question_pairs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ameya Godbole on Ameya Godbole</title>
+    <link>https://ameyagodbole.github.io/</link>
+    <description>Recent content in Ameya Godbole on Ameya Godbole</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Summary of Deep Learning Book Chap 9</title>
+      <link>https://ameyagodbole.github.io/post/dl_book_chap9/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://ameyagodbole.github.io/post/dl_book_chap9/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://medium.com/inveterate-learner/deep-learning-book-chapter-9-convolutional-networks-45e43bfc718d&#34; target=&#34;_blank&#34;&gt;blog post&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The venture: &lt;a href=&#34;https://medium.com/inveterate-learner&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Inveterate Learner&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Progressively Balanced Multi-class Neural Trees</title>
+      <link>https://ameyagodbole.github.io/publication/progressively_balanced_multiclass_neural_trees/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://ameyagodbole.github.io/publication/progressively_balanced_multiclass_neural_trees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siamese Neural Networks with Random Forest for detecting duplicate question pairs</title>
+      <link>https://ameyagodbole.github.io/publication/quora_question_pairs/</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://ameyagodbole.github.io/publication/quora_question_pairs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progressively Balanced Multi-class Neural Trees</title>
+      <link>https://ameyagodbole.github.io/project/progressively_balanced_multiclass_neural_trees/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://ameyagodbole.github.io/project/progressively_balanced_multiclass_neural_trees/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Mentor:&lt;/strong&gt; Dr. Prithwijit Guha (Dept. of EEE, IIT Guwahati)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Collaborator:&lt;/strong&gt; Spoorthy Bhat&lt;/p&gt;
+
+&lt;p&gt;This project was my Bachelor&amp;rsquo;s thesis at IIT Guwahati.&lt;/p&gt;
+
+&lt;p&gt;The basic idea is to allow each node to learn &lt;strong&gt;oblique partitions&lt;/strong&gt; in the input space as opposed to the axis-aligned partitions learned by a standard &lt;strong&gt;C4.5&lt;/strong&gt; tree. This required the development of a differentiable criterion.&lt;/p&gt;
+
+&lt;p&gt;During the course of the project we realized that this hierarchical partitioning results in &lt;strong&gt;data-thinning&lt;/strong&gt; (i.e. as we go down the tree, the number of samples reaching a node go on decreasing). This causes the trained nodes to be biased when class distributions become unbalanced. Consequently, we resort to &lt;strong&gt;data balancing&lt;/strong&gt;. We tested different methods of artificially balancing the class distribution in the data at each node.&lt;/p&gt;
+
+&lt;p&gt;Our method gave comparable accuracy to existing classifiers on 10 benchmark datasets. &lt;em&gt;What is the gain?&lt;/em&gt; The learned trees require fewer computations at test time (on average over the test set) than a multi-layer perceptron (MLP) of comparable accuracy.&lt;/p&gt;
+
+&lt;p&gt;We designed the framework for training the decision tree and node parameters, and testing the classifier using the Tensorflow package.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Commercial Segmentation in Television Stream</title>
+      <link>https://ameyagodbole.github.io/project/commercial_segmentation_in_television_stream/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://ameyagodbole.github.io/project/commercial_segmentation_in_television_stream/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Mentor:&lt;/strong&gt; Dr. Prithwijit Guha (Dept. of EEE, IIT Guwahati)&lt;/p&gt;
+
+&lt;p&gt;The problem of detecting when a television stream has switched from content to commercials (advertisements) is difficult because of the wide range of presentation formats available. Even trickier is detecting inter-commercial transitions. Once these transitions are accurately predicted, methods can be developed to further identify the product being advertised. This problem is of importance to companies and advertisers both, as it helps provide credibility to the claimed number times a particular commercial was broadcasted.&lt;/p&gt;
+
+&lt;p&gt;Boiled down to the basics: &lt;em&gt;the project aimed at developing a classifier that could accurately predict whether a scene change resulted in the start/end of a commercial.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The project is being developed by the &lt;strong&gt;Multimedia Analytics Lab (IIT Guwahati)&lt;/strong&gt;. I participated in the project as a student intern. My role involved &lt;strong&gt;collecting and cleaning a dataset, structuring the experiments, and implementing baselines.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DEep Semantic Kernel (DESK)</title>
+      <link>https://ameyagodbole.github.io/project/desk/</link>
+      <pubDate>Tue, 30 May 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://ameyagodbole.github.io/project/desk/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Mentors:&lt;/strong&gt; Dr. Amit Sethi (Dept. of EEE, IIT Bombay), Neeraj K. Vaid&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Collaborator:&lt;/strong&gt; Aman Dalmia&lt;/p&gt;
+
+&lt;p&gt;We attempted &lt;strong&gt;transfer learning&lt;/strong&gt; between a convolutional neural network (CNN) in the source domain and maximum margin classifiers in the low-data target domain. Our goal was to leverage the capabilities of the CNN trained on large amounts of training data, especially in image classification tasks, in other tasks with limited data.&lt;/p&gt;
+
+&lt;p&gt;The project ongoing at Dr. Sethi&amp;rsquo;s lab.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quora Question Pairs</title>
+      <link>https://ameyagodbole.github.io/project/quora_question_pairs/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://ameyagodbole.github.io/project/quora_question_pairs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bufferless Routeing in Network-On-Chip</title>
+      <link>https://ameyagodbole.github.io/project/bufferless_routeing_in_network_on_chip/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://ameyagodbole.github.io/project/bufferless_routeing_in_network_on_chip/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Mentor:&lt;/strong&gt; Dr. John Jose (Dept. of CSE, IIT Guwahati)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Collaborators:&lt;/strong&gt; Nandan Bedekar, N Hariharan&lt;/p&gt;
+
+&lt;p&gt;On-chip interconnection networks are gaining popularity due increase in the number of cores on a processor chip. These networks allow multicore processing without the delays introduced by direct wiring. We modified the network traffic simulator &lt;a href=&#34;http://nocs.stanford.edu/booksim.html&#34; target=&#34;_blank&#34;&gt;BookSim 2.0&lt;/a&gt; to study the properties of bufferless routers. In particular, we encoded the &lt;a href=&#34;https://ieeexplore.ieee.org/document/5749724&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;CHIPPER&lt;/strong&gt;&lt;/a&gt; architecture.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/ameyagodbole/booksim2&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Project repository&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Autonomous Intelligent Robot</title>
+      <link>https://ameyagodbole.github.io/project/autonomous_intelligent_robot/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 -0400</pubDate>
+      
+      <guid>https://ameyagodbole.github.io/project/autonomous_intelligent_robot/</guid>
+      <description>&lt;p&gt;The Robotics Club of IIT Guwahati developed this project. The aim was to learn on the go which was facilitated through tutorials by senior members of the club and the institute as a whole. The project resulted in a robot that could:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Map&lt;/strong&gt; its environment and create a 3D rendering of the world using a stereo-camera (which provided depth information). We later migrated to the Kinect sensor&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Localize&lt;/strong&gt; itself in a known map upon initialization&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Navigate&lt;/strong&gt; to a given target location (set in the map)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The software was built on top of the &lt;strong&gt;Robot Operating System (ROS)&lt;/strong&gt; which provide packages for handling all the concurrent processes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
