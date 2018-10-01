@@ -13,12 +13,13 @@
     
     
     <item>
-      <title>Summary of Deep Learning Book Chap 9</title>
+      <title>Deep Learning Book: Chapter 9 — Convolutional Networks</title>
       <link>https://ameyagodbole.github.io/post/dl_book_chap9/</link>
       <pubDate>Fri, 29 Jun 2018 00:00:00 -0400</pubDate>
       
       <guid>https://ameyagodbole.github.io/post/dl_book_chap9/</guid>
-      <description>The blog post
+      <description>When discussing deep learning, two models have become the leading buzzwords — Convolutional Neural Networks, which are the topic of this post, and Recurrent Neural Networks, which will be discussed soon.
+The blog post
 The venture: Inveterate Learner</description>
     </item>
     

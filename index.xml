@@ -11,12 +11,14 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Summary of Deep Learning Book Chap 9</title>
+      <title>Deep Learning Book: Chapter 9 — Convolutional Networks</title>
       <link>https://ameyagodbole.github.io/post/dl_book_chap9/</link>
       <pubDate>Fri, 29 Jun 2018 00:00:00 -0400</pubDate>
       
       <guid>https://ameyagodbole.github.io/post/dl_book_chap9/</guid>
-      <description>&lt;p&gt;The &lt;a href=&#34;https://medium.com/inveterate-learner/deep-learning-book-chapter-9-convolutional-networks-45e43bfc718d&#34; target=&#34;_blank&#34;&gt;blog post&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;When discussing deep learning, two models have become the leading buzzwords — &lt;em&gt;Convolutional Neural Networks&lt;/em&gt;, which are the topic of this post, and &lt;em&gt;Recurrent Neural Networks&lt;/em&gt;, which will be discussed soon.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://medium.com/inveterate-learner/deep-learning-book-chapter-9-convolutional-networks-45e43bfc718d&#34; target=&#34;_blank&#34;&gt;blog post&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The venture: &lt;a href=&#34;https://medium.com/inveterate-learner&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Inveterate Learner&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 </description>

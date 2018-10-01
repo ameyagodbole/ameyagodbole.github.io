@@ -15,7 +15,7 @@
   
     
   
-  <meta name="description" content="Read the [post](https://medium.com/inveterate-learner/deep-learning-book-chapter-9-convolutional-networks-45e43bfc718d) on Medium">
+  <meta name="description" content="This is going to be a series of blog posts on the *Deep Learning book* where we are attempting to provide a summary of each chapter highlighting the concepts that we found to be the most important so that other people can use it as a starting point for reading the chapters, while adding further explanations on few areas that we found difficult to grasp. Read the [post](https://medium.com/inveterate-learner/deep-learning-book-chapter-9-convolutional-networks-45e43bfc718d) on Medium">
 
   
   <link rel="alternate" hreflang="en-us" href="https://ameyagodbole.github.io/post/dl_book_chap9/">
@@ -88,8 +88,8 @@
   
   <meta property="og:site_name" content="Ameya Godbole">
   <meta property="og:url" content="https://ameyagodbole.github.io/post/dl_book_chap9/">
-  <meta property="og:title" content="Summary of Deep Learning Book Chap 9 | Ameya Godbole">
-  <meta property="og:description" content="Read the [post](https://medium.com/inveterate-learner/deep-learning-book-chapter-9-convolutional-networks-45e43bfc718d) on Medium">
+  <meta property="og:title" content="Deep Learning Book: Chapter 9 — Convolutional Networks | Ameya Godbole">
+  <meta property="og:description" content="This is going to be a series of blog posts on the *Deep Learning book* where we are attempting to provide a summary of each chapter highlighting the concepts that we found to be the most important so that other people can use it as a starting point for reading the chapters, while adding further explanations on few areas that we found difficult to grasp. Read the [post](https://medium.com/inveterate-learner/deep-learning-book-chapter-9-convolutional-networks-45e43bfc718d) on Medium">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2018-06-29T00:00:00-04:00">
@@ -101,7 +101,7 @@
 
   
 
-  <title>Summary of Deep Learning Book Chap 9 | Ameya Godbole</title>
+  <title>Deep Learning Book: Chapter 9 — Convolutional Networks | Ameya Godbole</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -237,7 +237,7 @@
         <li class="nav-item">
           <a href="/files/ameya_godbole_cv_long.pdf">
             
-            <span>CV(Long)</span>
+            <span>CV</span>
             
           </a>
         </li>
@@ -260,7 +260,7 @@
 
 
   <div class="article-container">
-    <h1 itemprop="name">Summary of Deep Learning Book Chap 9</h1>
+    <h1 itemprop="name">Deep Learning Book: Chapter 9 — Convolutional Networks</h1>
 
     
 
@@ -285,11 +285,6 @@
   </span>
 
   
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
-  
 
   
   
@@ -305,7 +300,7 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Summary%20of%20Deep%20Learning%20Book%20Chap%209&amp;url=https%3a%2f%2fameyagodbole.github.io%2fpost%2fdl_book_chap9%2f"
+         href="https://twitter.com/intent/tweet?text=Deep%20Learning%20Book%3a%20Chapter%209%20%e2%80%94%20Convolutional%20Networks&amp;url=https%3a%2f%2fameyagodbole.github.io%2fpost%2fdl_book_chap9%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
@@ -319,21 +314,21 @@
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fameyagodbole.github.io%2fpost%2fdl_book_chap9%2f&amp;title=Summary%20of%20Deep%20Learning%20Book%20Chap%209"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fameyagodbole.github.io%2fpost%2fdl_book_chap9%2f&amp;title=Deep%20Learning%20Book%3a%20Chapter%209%20%e2%80%94%20Convolutional%20Networks"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fameyagodbole.github.io%2fpost%2fdl_book_chap9%2f&amp;title=Summary%20of%20Deep%20Learning%20Book%20Chap%209"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fameyagodbole.github.io%2fpost%2fdl_book_chap9%2f&amp;title=Deep%20Learning%20Book%3a%20Chapter%209%20%e2%80%94%20Convolutional%20Networks"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Summary%20of%20Deep%20Learning%20Book%20Chap%209&amp;body=https%3a%2f%2fameyagodbole.github.io%2fpost%2fdl_book_chap9%2f">
+         href="mailto:?subject=Deep%20Learning%20Book%3a%20Chapter%209%20%e2%80%94%20Convolutional%20Networks&amp;body=https%3a%2f%2fameyagodbole.github.io%2fpost%2fdl_book_chap9%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -347,7 +342,9 @@
 
 
     <div class="article-style" itemprop="articleBody">
-      <p>The <a href="https://medium.com/inveterate-learner/deep-learning-book-chapter-9-convolutional-networks-45e43bfc718d" target="_blank">blog post</a></p>
+      <p>When discussing deep learning, two models have become the leading buzzwords — <em>Convolutional Neural Networks</em>, which are the topic of this post, and <em>Recurrent Neural Networks</em>, which will be discussed soon.</p>
+
+<p>The <a href="https://medium.com/inveterate-learner/deep-learning-book-chapter-9-convolutional-networks-45e43bfc718d" target="_blank">blog post</a></p>
 
 <p>The venture: <a href="https://medium.com/inveterate-learner" target="_blank"><strong>Inveterate Learner</strong></a></p>
 
