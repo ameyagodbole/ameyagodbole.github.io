@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ML on Ameya Godbole</title>
+    <title>ML | APG</title>
     <link>https://ameyagodbole.github.io/tags/ml/</link>
-    <description>Recent content in ML on Ameya Godbole</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 28 Feb 2018 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://ameyagodbole.github.io/tags/ml/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://ameyagodbole.github.io/tags/ml/index.xml" rel="self" type="application/rss+xml" />
+    <description>ML</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Feb 2018 00:00:00 -0500</lastBuildDate>
+    <image>
+      <url>https://ameyagodbole.github.io/img/icon-192.png</url>
+      <title>ML</title>
+      <link>https://ameyagodbole.github.io/tags/ml/</link>
+    </image>
     
     <item>
       <title>Progressively Balanced Multi-class Neural Trees</title>
       <link>https://ameyagodbole.github.io/publication/progressively_balanced_multiclass_neural_trees/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 -0500</pubDate>
-      
       <guid>https://ameyagodbole.github.io/publication/progressively_balanced_multiclass_neural_trees/</guid>
       <description></description>
     </item>
@@ -25,25 +24,21 @@
       <title>Progressively Balanced Multi-class Neural Trees</title>
       <link>https://ameyagodbole.github.io/project/progressively_balanced_multiclass_neural_trees/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 -0400</pubDate>
-      
       <guid>https://ameyagodbole.github.io/project/progressively_balanced_multiclass_neural_trees/</guid>
-      <description>Mentor: Dr. Prithwijit Guha (Dept. of EEE, IIT Guwahati)
-Collaborator: Spoorthy Bhat
-This project was my Bachelor&amp;rsquo;s thesis at IIT Guwahati.
-The basic idea is to allow each node to learn oblique partitions in the input space as opposed to the axis-aligned partitions learned by a standard C4.5 tree. This required the development of a differentiable criterion.
-During the course of the project we realized that this hierarchical partitioning results in data-thinning (i.</description>
-    </item>
-    
-    <item>
-      <title>DEep Semantic Kernel (DESK)</title>
-      <link>https://ameyagodbole.github.io/project/desk/</link>
-      <pubDate>Tue, 30 May 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://ameyagodbole.github.io/project/desk/</guid>
-      <description>Mentors: Dr. Amit Sethi (Dept. of EEE, IIT Bombay), Neeraj K. Vaid
-Collaborator: Aman Dalmia
-We attempted transfer learning between a convolutional neural network (CNN) in the source domain and maximum margin classifiers in the low-data target domain. Our goal was to leverage the capabilities of the CNN trained on large amounts of training data, especially in image classification tasks, in other tasks with limited data.
-The project ongoing at Dr.</description>
+      <description>&lt;p&gt;&lt;strong&gt;Mentor:&lt;/strong&gt; Dr. Prithwijit Guha (Dept. of EEE, IIT Guwahati)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Collaborator:&lt;/strong&gt; Spoorthy Bhat&lt;/p&gt;
+
+&lt;p&gt;This project was my Bachelor&amp;rsquo;s thesis at IIT Guwahati.&lt;/p&gt;
+
+&lt;p&gt;The basic idea is to allow each node to learn &lt;strong&gt;oblique partitions&lt;/strong&gt; in the input space as opposed to the axis-aligned partitions learned by a standard &lt;strong&gt;C4.5&lt;/strong&gt; tree. This required the development of a differentiable criterion.&lt;/p&gt;
+
+&lt;p&gt;During the course of the project we realized that this hierarchical partitioning results in &lt;strong&gt;data-thinning&lt;/strong&gt; (i.e. as we go down the tree, the number of samples reaching a node go on decreasing). This causes the trained nodes to be biased when class distributions become unbalanced. Consequently, we resort to &lt;strong&gt;data balancing&lt;/strong&gt;. We tested different methods of artificially balancing the class distribution in the data at each node.&lt;/p&gt;
+
+&lt;p&gt;Our method gave comparable accuracy to existing classifiers on 10 benchmark datasets. &lt;em&gt;What is the gain?&lt;/em&gt; The learned trees require fewer computations at test time (on average over the test set) than a multi-layer perceptron (MLP) of comparable accuracy.&lt;/p&gt;
+
+&lt;p&gt;We designed the framework for training the decision tree and node parameters, and testing the classifier using the Tensorflow package.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

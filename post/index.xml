@@ -1,26 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Ameya Godbole</title>
+    <title>Posts | APG</title>
     <link>https://ameyagodbole.github.io/post/</link>
-    <description>Recent content in Posts on Ameya Godbole</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://ameyagodbole.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://ameyagodbole.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Jun 2018 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://ameyagodbole.github.io/img/icon-192.png</url>
+      <title>Posts</title>
+      <link>https://ameyagodbole.github.io/post/</link>
+    </image>
     
     <item>
       <title>Deep Learning Book: Chapter 9 — Convolutional Networks</title>
       <link>https://ameyagodbole.github.io/post/dl_book_chap9/</link>
       <pubDate>Fri, 29 Jun 2018 00:00:00 -0400</pubDate>
-      
       <guid>https://ameyagodbole.github.io/post/dl_book_chap9/</guid>
-      <description>When discussing deep learning, two models have become the leading buzzwords — Convolutional Neural Networks, which are the topic of this post, and Recurrent Neural Networks, which will be discussed soon.
-The blog post
-The venture: Inveterate Learner</description>
+      <description>&lt;p&gt;When discussing deep learning, two models have become the leading buzzwords — &lt;em&gt;Convolutional Neural Networks&lt;/em&gt;, which are the topic of this post, and &lt;em&gt;Recurrent Neural Networks&lt;/em&gt;, which will be discussed soon.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://medium.com/inveterate-learner/deep-learning-book-chapter-9-convolutional-networks-45e43bfc718d&#34; target=&#34;_blank&#34;&gt;blog post&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The venture: &lt;a href=&#34;https://medium.com/inveterate-learner&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Inveterate Learner&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

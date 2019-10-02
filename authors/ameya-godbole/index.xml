@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ameya Godbole | APG</title>
+    <link>https://ameyagodbole.github.io/authors/ameya-godbole/</link>
+      <atom:link href="https://ameyagodbole.github.io/authors/ameya-godbole/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ameya Godbole</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Jun 2018 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://ameyagodbole.github.io/img/icon-192.png</url>
+      <title>Ameya Godbole</title>
+      <link>https://ameyagodbole.github.io/authors/ameya-godbole/</link>
+    </image>
+    
+    <item>
+      <title>Deep Learning Book: Chapter 9 — Convolutional Networks</title>
+      <link>https://ameyagodbole.github.io/post/dl_book_chap9/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 -0400</pubDate>
+      <guid>https://ameyagodbole.github.io/post/dl_book_chap9/</guid>
+      <description>&lt;p&gt;When discussing deep learning, two models have become the leading buzzwords — &lt;em&gt;Convolutional Neural Networks&lt;/em&gt;, which are the topic of this post, and &lt;em&gt;Recurrent Neural Networks&lt;/em&gt;, which will be discussed soon.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://medium.com/inveterate-learner/deep-learning-book-chapter-9-convolutional-networks-45e43bfc718d&#34; target=&#34;_blank&#34;&gt;blog post&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The venture: &lt;a href=&#34;https://medium.com/inveterate-learner&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Inveterate Learner&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Progressively Balanced Multi-class Neural Trees</title>
+      <link>https://ameyagodbole.github.io/publication/progressively_balanced_multiclass_neural_trees/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 -0500</pubDate>
+      <guid>https://ameyagodbole.github.io/publication/progressively_balanced_multiclass_neural_trees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siamese Neural Networks with Random Forest for detecting duplicate question pairs</title>
+      <link>https://ameyagodbole.github.io/publication/quora_question_pairs/</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 -0500</pubDate>
+      <guid>https://ameyagodbole.github.io/publication/quora_question_pairs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,104 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Ameya Godbole</title>
+    <title>Tags | APG</title>
     <link>https://ameyagodbole.github.io/tags/</link>
-    <description>Recent content in Tags on Ameya Godbole</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://ameyagodbole.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>C&#43;&#43;</title>
-      <link>https://ameyagodbole.github.io/tags/c&#43;&#43;/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://ameyagodbole.github.io/tags/c&#43;&#43;/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://ameyagodbole.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Jun 2018 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://ameyagodbole.github.io/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://ameyagodbole.github.io/tags/</link>
+    </image>
     
     <item>
       <title>CNN</title>
       <link>https://ameyagodbole.github.io/tags/cnn/</link>
       <pubDate>Fri, 29 Jun 2018 00:00:00 -0400</pubDate>
-      
       <guid>https://ameyagodbole.github.io/tags/cnn/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>GRU</title>
-      <link>https://ameyagodbole.github.io/tags/gru/</link>
-      <pubDate>Sun, 28 Jan 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://ameyagodbole.github.io/tags/gru/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ML</title>
-      <link>https://ameyagodbole.github.io/tags/ml/</link>
-      <pubDate>Wed, 28 Feb 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://ameyagodbole.github.io/tags/ml/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NLP</title>
-      <link>https://ameyagodbole.github.io/tags/nlp/</link>
-      <pubDate>Sun, 28 Jan 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://ameyagodbole.github.io/tags/nlp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>OOP</title>
-      <link>https://ameyagodbole.github.io/tags/oop/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://ameyagodbole.github.io/tags/oop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RNN</title>
-      <link>https://ameyagodbole.github.io/tags/rnn/</link>
-      <pubDate>Sun, 28 Jan 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://ameyagodbole.github.io/tags/rnn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ROS</title>
-      <link>https://ameyagodbole.github.io/tags/ros/</link>
-      <pubDate>Wed, 01 Apr 2015 00:00:00 -0400</pubDate>
-      
-      <guid>https://ameyagodbole.github.io/tags/ros/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SLAM</title>
-      <link>https://ameyagodbole.github.io/tags/slam/</link>
-      <pubDate>Wed, 01 Apr 2015 00:00:00 -0400</pubDate>
-      
-      <guid>https://ameyagodbole.github.io/tags/slam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SVM</title>
-      <link>https://ameyagodbole.github.io/tags/svm/</link>
-      <pubDate>Tue, 30 May 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://ameyagodbole.github.io/tags/svm/</guid>
+      <title>dl-book</title>
+      <link>https://ameyagodbole.github.io/tags/dl-book/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 -0400</pubDate>
+      <guid>https://ameyagodbole.github.io/tags/dl-book/</guid>
       <description></description>
     </item>
     
@@ -106,7 +32,6 @@
       <title>classification</title>
       <link>https://ameyagodbole.github.io/tags/classification/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 -0500</pubDate>
-      
       <guid>https://ameyagodbole.github.io/tags/classification/</guid>
       <description></description>
     </item>
@@ -115,17 +40,15 @@
       <title>decision trees</title>
       <link>https://ameyagodbole.github.io/tags/decision-trees/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 -0500</pubDate>
-      
       <guid>https://ameyagodbole.github.io/tags/decision-trees/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>dl-book</title>
-      <link>https://ameyagodbole.github.io/tags/dl-book/</link>
-      <pubDate>Fri, 29 Jun 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://ameyagodbole.github.io/tags/dl-book/</guid>
+      <title>ML</title>
+      <link>https://ameyagodbole.github.io/tags/ml/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 -0500</pubDate>
+      <guid>https://ameyagodbole.github.io/tags/ml/</guid>
       <description></description>
     </item>
     
@@ -133,8 +56,47 @@
       <title>ensemble</title>
       <link>https://ameyagodbole.github.io/tags/ensemble/</link>
       <pubDate>Sun, 28 Jan 2018 00:00:00 -0500</pubDate>
-      
       <guid>https://ameyagodbole.github.io/tags/ensemble/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GRU</title>
+      <link>https://ameyagodbole.github.io/tags/gru/</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 -0500</pubDate>
+      <guid>https://ameyagodbole.github.io/tags/gru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>https://ameyagodbole.github.io/tags/nlp/</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 -0500</pubDate>
+      <guid>https://ameyagodbole.github.io/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RNN</title>
+      <link>https://ameyagodbole.github.io/tags/rnn/</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 -0500</pubDate>
+      <guid>https://ameyagodbole.github.io/tags/rnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://ameyagodbole.github.io/tags/python/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 -0400</pubDate>
+      <guid>https://ameyagodbole.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tensorflow</title>
+      <link>https://ameyagodbole.github.io/tags/tensorflow/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 -0400</pubDate>
+      <guid>https://ameyagodbole.github.io/tags/tensorflow/</guid>
       <description></description>
     </item>
     
@@ -142,7 +104,6 @@
       <title>ffmpeg</title>
       <link>https://ameyagodbole.github.io/tags/ffmpeg/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 -0400</pubDate>
-      
       <guid>https://ameyagodbole.github.io/tags/ffmpeg/</guid>
       <description></description>
     </item>
@@ -151,80 +112,7 @@
       <title>image processing</title>
       <link>https://ameyagodbole.github.io/tags/image-processing/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 -0400</pubDate>
-      
       <guid>https://ameyagodbole.github.io/tags/image-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>keras</title>
-      <link>https://ameyagodbole.github.io/tags/keras/</link>
-      <pubDate>Tue, 30 May 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://ameyagodbole.github.io/tags/keras/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>networks</title>
-      <link>https://ameyagodbole.github.io/tags/networks/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://ameyagodbole.github.io/tags/networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pandas</title>
-      <link>https://ameyagodbole.github.io/tags/pandas/</link>
-      <pubDate>Mon, 01 May 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://ameyagodbole.github.io/tags/pandas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>planning</title>
-      <link>https://ameyagodbole.github.io/tags/planning/</link>
-      <pubDate>Wed, 01 Apr 2015 00:00:00 -0400</pubDate>
-      
-      <guid>https://ameyagodbole.github.io/tags/planning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>python</title>
-      <link>https://ameyagodbole.github.io/tags/python/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://ameyagodbole.github.io/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>python-multiprocessing</title>
-      <link>https://ameyagodbole.github.io/tags/python-multiprocessing/</link>
-      <pubDate>Mon, 01 May 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://ameyagodbole.github.io/tags/python-multiprocessing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tensorflow</title>
-      <link>https://ameyagodbole.github.io/tags/tensorflow/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://ameyagodbole.github.io/tags/tensorflow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>transfer learning</title>
-      <link>https://ameyagodbole.github.io/tags/transfer-learning/</link>
-      <pubDate>Tue, 30 May 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://ameyagodbole.github.io/tags/transfer-learning/</guid>
       <description></description>
     </item>
     
@@ -232,8 +120,79 @@
       <title>video processing</title>
       <link>https://ameyagodbole.github.io/tags/video-processing/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 -0400</pubDate>
-      
       <guid>https://ameyagodbole.github.io/tags/video-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>keras</title>
+      <link>https://ameyagodbole.github.io/tags/keras/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 -0400</pubDate>
+      <guid>https://ameyagodbole.github.io/tags/keras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pandas</title>
+      <link>https://ameyagodbole.github.io/tags/pandas/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 -0400</pubDate>
+      <guid>https://ameyagodbole.github.io/tags/pandas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python-multiprocessing</title>
+      <link>https://ameyagodbole.github.io/tags/python-multiprocessing/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 -0400</pubDate>
+      <guid>https://ameyagodbole.github.io/tags/python-multiprocessing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>https://ameyagodbole.github.io/tags/c&#43;&#43;/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 -0500</pubDate>
+      <guid>https://ameyagodbole.github.io/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>networks</title>
+      <link>https://ameyagodbole.github.io/tags/networks/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 -0500</pubDate>
+      <guid>https://ameyagodbole.github.io/tags/networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OOP</title>
+      <link>https://ameyagodbole.github.io/tags/oop/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 -0500</pubDate>
+      <guid>https://ameyagodbole.github.io/tags/oop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>planning</title>
+      <link>https://ameyagodbole.github.io/tags/planning/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 -0400</pubDate>
+      <guid>https://ameyagodbole.github.io/tags/planning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ROS</title>
+      <link>https://ameyagodbole.github.io/tags/ros/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 -0400</pubDate>
+      <guid>https://ameyagodbole.github.io/tags/ros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SLAM</title>
+      <link>https://ameyagodbole.github.io/tags/slam/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 -0400</pubDate>
+      <guid>https://ameyagodbole.github.io/tags/slam/</guid>
       <description></description>
     </item>
     
