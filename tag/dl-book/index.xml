@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dl-book | APG</title>
+    <link>https://ameyagodbole.github.io/tag/dl-book/</link>
+      <atom:link href="https://ameyagodbole.github.io/tag/dl-book/index.xml" rel="self" type="application/rss+xml" />
+    <description>dl-book</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Jun 2018 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://ameyagodbole.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>dl-book</title>
+      <link>https://ameyagodbole.github.io/tag/dl-book/</link>
+    </image>
+    
+    <item>
+      <title>Deep Learning Book: Chapter 9 — Convolutional Networks</title>
+      <link>https://ameyagodbole.github.io/post/dl_book_chap9/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 -0400</pubDate>
+      <guid>https://ameyagodbole.github.io/post/dl_book_chap9/</guid>
+      <description>&lt;p&gt;When discussing deep learning, two models have become the leading buzzwords — &lt;em&gt;Convolutional Neural Networks&lt;/em&gt;, which are the topic of this post, and &lt;em&gt;Recurrent Neural Networks&lt;/em&gt;, which will be discussed soon.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://medium.com/inveterate-learner/deep-learning-book-chapter-9-convolutional-networks-45e43bfc718d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog post&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The venture: &lt;a href=&#34;https://medium.com/inveterate-learner&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Inveterate Learner&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

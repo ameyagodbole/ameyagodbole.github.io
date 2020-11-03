@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>networks | APG</title>
+    <link>https://ameyagodbole.github.io/tag/networks/</link>
+      <atom:link href="https://ameyagodbole.github.io/tag/networks/index.xml" rel="self" type="application/rss+xml" />
+    <description>networks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2017 00:00:00 -0500</lastBuildDate>
+    <image>
+      <url>https://ameyagodbole.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>networks</title>
+      <link>https://ameyagodbole.github.io/tag/networks/</link>
+    </image>
+    
+    <item>
+      <title>Bufferless Routeing in Network-On-Chip</title>
+      <link>https://ameyagodbole.github.io/project/bufferless_routeing_in_network_on_chip/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 -0500</pubDate>
+      <guid>https://ameyagodbole.github.io/project/bufferless_routeing_in_network_on_chip/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Mentor:&lt;/strong&gt; Dr. John Jose (Dept. of CSE, IIT Guwahati)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Collaborators:&lt;/strong&gt; Nandan Bedekar, N Hariharan&lt;/p&gt;
+&lt;p&gt;On-chip interconnection networks are gaining popularity due increase in the number of cores on a processor chip. These networks allow multicore processing without the delays introduced by direct wiring. We modified the network traffic simulator &lt;a href=&#34;http://nocs.stanford.edu/booksim.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BookSim 2.0&lt;/a&gt; to study the properties of bufferless routers. In particular, we encoded the &lt;a href=&#34;https://ieeexplore.ieee.org/document/5749724&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;CHIPPER&lt;/strong&gt;&lt;/a&gt; architecture.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ameyagodbole/booksim2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Project repository&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

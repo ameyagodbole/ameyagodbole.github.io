@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ensemble | APG</title>
+    <link>https://ameyagodbole.github.io/tag/ensemble/</link>
+      <atom:link href="https://ameyagodbole.github.io/tag/ensemble/index.xml" rel="self" type="application/rss+xml" />
+    <description>ensemble</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 28 Jan 2018 00:00:00 -0500</lastBuildDate>
+    <image>
+      <url>https://ameyagodbole.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>ensemble</title>
+      <link>https://ameyagodbole.github.io/tag/ensemble/</link>
+    </image>
+    
+    <item>
+      <title>Siamese Neural Networks with Random Forest for detecting duplicate question pairs</title>
+      <link>https://ameyagodbole.github.io/publication/quora_question_pairs/</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 -0500</pubDate>
+      <guid>https://ameyagodbole.github.io/publication/quora_question_pairs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quora Question Pairs</title>
+      <link>https://ameyagodbole.github.io/project/quora_question_pairs/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 -0400</pubDate>
+      <guid>https://ameyagodbole.github.io/project/quora_question_pairs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

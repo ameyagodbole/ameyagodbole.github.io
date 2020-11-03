@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | APG</title>
+    <link>https://ameyagodbole.github.io/publication-type/1/</link>
+      <atom:link href="https://ameyagodbole.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ameyagodbole.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>https://ameyagodbole.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>A Simple Approach to Case-Based Reasoning in Knowledge Bases</title>
+      <link>https://ameyagodbole.github.io/publication/a-simple-approach-to-case-based-reasoning-in-knowledge-bases/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://ameyagodbole.github.io/publication/a-simple-approach-to-case-based-reasoning-in-knowledge-bases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chains-of-Reasoning at TextGraphs 2019 Shared Task: Reasoning over Chains of Facts for Explainable Multi-hop Inference</title>
+      <link>https://ameyagodbole.github.io/publication/reasoning-over-chains-of-facts-for-explainable-multi-hop-inference/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://ameyagodbole.github.io/publication/reasoning-over-chains-of-facts-for-explainable-multi-hop-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Step Entity-Centric Information Retrieval for Multi-Hop Question Answering</title>
+      <link>https://ameyagodbole.github.io/publication/multi-step-entity-centric-information-retrieval-for-multi-hop-question-answering/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://ameyagodbole.github.io/publication/multi-step-entity-centric-information-retrieval-for-multi-hop-question-answering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progressively Balanced Multi-class Neural Trees</title>
+      <link>https://ameyagodbole.github.io/publication/progressively_balanced_multiclass_neural_trees/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 -0500</pubDate>
+      <guid>https://ameyagodbole.github.io/publication/progressively_balanced_multiclass_neural_trees/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

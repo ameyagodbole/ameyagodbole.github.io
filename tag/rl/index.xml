@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RL | APG</title>
+    <link>https://ameyagodbole.github.io/tag/rl/</link>
+      <atom:link href="https://ameyagodbole.github.io/tag/rl/index.xml" rel="self" type="application/rss+xml" />
+    <description>RL</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ameyagodbole.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>RL</title>
+      <link>https://ameyagodbole.github.io/tag/rl/</link>
+    </image>
+    
+    <item>
+      <title>Data Center Energy Portfolio Optimization</title>
+      <link>https://ameyagodbole.github.io/project/data-center-energy-portfolio-optimization/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://ameyagodbole.github.io/project/data-center-energy-portfolio-optimization/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Mentor:&lt;/strong&gt; &lt;a href=&#34;https://groups.cs.umass.edu/hajiesmaili/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Mohammad Hajiesmaili&lt;/a&gt; (CICS, UMass Amherst), &lt;a href=&#34;https://people.cs.umass.edu/~pthomas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Philip Thomas&lt;/a&gt; (CICS, UMass AmherstCICS, UMass Amherst)&lt;/p&gt;
+&lt;p&gt;This project deals with the problem of online inventory management with demand constraints. In particular, given a time-varying pricing and demand function for electricity and the ability to store a limited amount of electricity for future use (inventory), the task is to minimize the cost of buying electricity while meeting the demand at every time instant.&lt;/p&gt;
+&lt;p&gt;The existing state-of-the-art techniques [1] propose a behavior rule that is analytically shown to have the lowest possible worst case cost ratio. The authors have shown that the method also works well in the average case against several competitive baselines. However, this rule based method does not learn or adapt to the distributions of price and demand. This project attempted to develop methods using Reinforcement Learning to see whether there is room for improvement by learning from interactions with this environment.&lt;/p&gt;
+&lt;p&gt;After setting up the RL problem with the price and demand variations as the environment and the battery control as the agent, I applied a range of standard RL algorithms as well as imitation learning (DAGGER [2]). The oracle for imitation learning was the optimal offline solution.&lt;/p&gt;
+&lt;p&gt;Outcomes: The RL methods are difficult to train for this problem and even with hyperparameter tuning, the best performing agents cannot beat the SotA baseline. The imitation learning agent fares better than the RL agents ans is competitive with the SotA (but not better).&lt;/p&gt;
+&lt;p&gt;I ended the project by outlining avenues for future work including dynamically changing action spaces and two-stage control. Although I am no longer working on this problem, this project is being actively worked on by Prof. Hajiesmaili.&lt;/p&gt;
+&lt;p&gt;[1]: &lt;a href=&#34;https://arxiv.org/abs/1901.04372&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Online Inventory Management with Application to Energy Procurement in Data Centers&lt;/a&gt;
+[2]: &lt;a href=&#34;https://arxiv.org/abs/1011.0686&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>video processing | APG</title>
+    <link>https://ameyagodbole.github.io/tag/video-processing/</link>
+      <atom:link href="https://ameyagodbole.github.io/tag/video-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>video processing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2017 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://ameyagodbole.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>video processing</title>
+      <link>https://ameyagodbole.github.io/tag/video-processing/</link>
+    </image>
+    
+    <item>
+      <title>Commercial Segmentation in Television Stream</title>
+      <link>https://ameyagodbole.github.io/project/commercial_segmentation_in_television_stream/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 -0400</pubDate>
+      <guid>https://ameyagodbole.github.io/project/commercial_segmentation_in_television_stream/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Mentor:&lt;/strong&gt; Dr. Prithwijit Guha (Dept. of EEE, IIT Guwahati)&lt;/p&gt;
+&lt;p&gt;The problem of detecting when a television stream has switched from content to commercials (advertisements) is difficult because of the wide range of presentation formats available. Even trickier is detecting inter-commercial transitions. Once these transitions are accurately predicted, methods can be developed to further identify the product being advertised. This problem is of importance to companies and advertisers both, as it helps provide credibility to the claimed number times a particular commercial was broadcasted.&lt;/p&gt;
+&lt;p&gt;Boiled down to the basics: &lt;em&gt;the project aimed at developing a classifier that could accurately predict whether a scene change resulted in the start/end of a commercial.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The project is being developed by the &lt;strong&gt;Multimedia Analytics Lab (IIT Guwahati)&lt;/strong&gt;. I participated in the project as a student intern. My role involved &lt;strong&gt;collecting and cleaning a dataset, structuring the experiments, and implementing baselines.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

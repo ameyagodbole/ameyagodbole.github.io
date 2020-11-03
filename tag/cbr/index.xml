@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CBR | APG</title>
+    <link>https://ameyagodbole.github.io/tag/cbr/</link>
+      <atom:link href="https://ameyagodbole.github.io/tag/cbr/index.xml" rel="self" type="application/rss+xml" />
+    <description>CBR</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 18 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ameyagodbole.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>CBR</title>
+      <link>https://ameyagodbole.github.io/tag/cbr/</link>
+    </image>
+    
+    <item>
+      <title>Probabilistic Case-based Reasoning for Open-World Knowledge Graph Completion</title>
+      <link>https://ameyagodbole.github.io/publication/probabilistic-case-based-reasoning-for-open-world-knowledge-graph-completion/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://ameyagodbole.github.io/publication/probabilistic-case-based-reasoning-for-open-world-knowledge-graph-completion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Simple Approach to Case-Based Reasoning in Knowledge Bases</title>
+      <link>https://ameyagodbole.github.io/publication/a-simple-approach-to-case-based-reasoning-in-knowledge-bases/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://ameyagodbole.github.io/publication/a-simple-approach-to-case-based-reasoning-in-knowledge-bases/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

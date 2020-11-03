@@ -5,51 +5,170 @@
     <link>https://ameyagodbole.github.io/</link>
       <atom:link href="https://ameyagodbole.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>APG</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Jun 2018 00:00:00 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 18 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ameyagodbole.github.io/img/icon-192.png</url>
+      <url>https://ameyagodbole.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>APG</title>
       <link>https://ameyagodbole.github.io/</link>
     </image>
     
     <item>
-      <title>Posts</title>
-      <link>https://ameyagodbole.github.io/post/</link>
+      <title>Case-Based Reasoning</title>
+      <link>https://ameyagodbole.github.io/project/case-based-reasoning/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://ameyagodbole.github.io/project/case-based-reasoning/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Mentor:&lt;/strong&gt; Dr. Andrew McCallum (CICS, UMass Amherst)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Collaborator:&lt;/strong&gt; &lt;a href=&#34;http://rajarshd.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rajarshi Das&lt;/a&gt;, &lt;a href=&#34;https://people.cs.umass.edu/~nmonath/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nicholas Monath&lt;/a&gt;, &lt;a href=&#34;http://www.manzil.ml/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Manzil Zaheer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A knowledge graph (KG) is formed by the entities as nodes and relations between entities as directed edges. KG completion is the problem of answering queries of the type (&lt;code&gt;e&lt;/code&gt;, &lt;code&gt;r&lt;/code&gt;, ?) i.e. given a query entity &lt;code&gt;e&lt;/code&gt; and query relation &lt;code&gt;r&lt;/code&gt;, find the entity &lt;code&gt;e_ans&lt;/code&gt; that has the relation &lt;code&gt;r&lt;/code&gt; with &lt;code&gt;e&lt;/code&gt;. As you can imagine, this task is used to complete partial KGs by guessing missing edges.&lt;/p&gt;
+&lt;p&gt;Given a new problem, a &lt;em&gt;Case-based Reasoning system&lt;/em&gt;:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Retrieves&lt;/strong&gt; similar cases seem in the past&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reuses&lt;/strong&gt; solutions to previously solved cases&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Revises&lt;/strong&gt; solutions to apply to the current query&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Retains&lt;/strong&gt; modified solutions as new cases&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We adapt this system for knowledge graph completion by using the training graph as the store of solved cases. Similar entities are found by nearest neighbors using a simple one-hot representation based on connected relations (this captures the notion of entity types). Solutions are paths (sequence of relations) that reach the answer node. Then starting from the query entity, we traverse the graph using the paths collected. If such a system can achieve high accuracy, it is appealing owing to its simplicity, interpretability, and scalability.&lt;/p&gt;
+&lt;p&gt;We demonstrated that this simple system is highly performant in &lt;a href=&#34;https://ameyagodbole.github.io/publication/a-simple-approach-to-case-based-reasoning-in-knowledge-bases/&#34;&gt;&lt;code&gt;A Simple Approach to Case-Based Reasoning in Knowledge Bases&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;After performing an error analysis on this system, we then imposed a probabilistic structure to allow the system to weight the answers. Concretely, we use the prior probability of a path reaching the tail entity for the given query relation and the precision of that path type to downweight spurious paths. We use clustering to help aggregate probabilitities. We demonstrated in &lt;a href=&#34;https://ameyagodbole.github.io/publication/probabilistic-case-based-reasoning-for-open-world-knowledge-graph-completion/&#34;&gt;&lt;code&gt;Probabilistic Case-based Reasoning for Open-World Knowledge Graph Completion&lt;/code&gt;&lt;/a&gt; that this systems matches/outperforms baselines on FB122, WN18RR and Nell-995. Moreover, we demonstrated that this method can be applied to dynamic &lt;em&gt;growing&lt;/em&gt; KGs with minimal overhead whereas the best embedding based methods deteriorate with successive KG updates.&lt;/p&gt;
+&lt;p&gt;Future Work: We are experimenting with extending this reasoning strategy to question answering systems. A lot of challenges arise with moving from the structured world of knowledge graphs to unstructured text.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Case-based Reasoning for Open-World Knowledge Graph Completion</title>
+      <link>https://ameyagodbole.github.io/publication/probabilistic-case-based-reasoning-for-open-world-knowledge-graph-completion/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://ameyagodbole.github.io/publication/probabilistic-case-based-reasoning-for-open-world-knowledge-graph-completion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Simple Approach to Case-Based Reasoning in Knowledge Bases</title>
+      <link>https://ameyagodbole.github.io/publication/a-simple-approach-to-case-based-reasoning-in-knowledge-bases/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://ameyagodbole.github.io/publication/a-simple-approach-to-case-based-reasoning-in-knowledge-bases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Center Energy Portfolio Optimization</title>
+      <link>https://ameyagodbole.github.io/project/data-center-energy-portfolio-optimization/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://ameyagodbole.github.io/project/data-center-energy-portfolio-optimization/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Mentor:&lt;/strong&gt; &lt;a href=&#34;https://groups.cs.umass.edu/hajiesmaili/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Mohammad Hajiesmaili&lt;/a&gt; (CICS, UMass Amherst), &lt;a href=&#34;https://people.cs.umass.edu/~pthomas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Philip Thomas&lt;/a&gt; (CICS, UMass AmherstCICS, UMass Amherst)&lt;/p&gt;
+&lt;p&gt;This project deals with the problem of online inventory management with demand constraints. In particular, given a time-varying pricing and demand function for electricity and the ability to store a limited amount of electricity for future use (inventory), the task is to minimize the cost of buying electricity while meeting the demand at every time instant.&lt;/p&gt;
+&lt;p&gt;The existing state-of-the-art techniques [1] propose a behavior rule that is analytically shown to have the lowest possible worst case cost ratio. The authors have shown that the method also works well in the average case against several competitive baselines. However, this rule based method does not learn or adapt to the distributions of price and demand. This project attempted to develop methods using Reinforcement Learning to see whether there is room for improvement by learning from interactions with this environment.&lt;/p&gt;
+&lt;p&gt;After setting up the RL problem with the price and demand variations as the environment and the battery control as the agent, I applied a range of standard RL algorithms as well as imitation learning (DAGGER [2]). The oracle for imitation learning was the optimal offline solution.&lt;/p&gt;
+&lt;p&gt;Outcomes: The RL methods are difficult to train for this problem and even with hyperparameter tuning, the best performing agents cannot beat the SotA baseline. The imitation learning agent fares better than the RL agents ans is competitive with the SotA (but not better).&lt;/p&gt;
+&lt;p&gt;I ended the project by outlining avenues for future work including dynamically changing action spaces and two-stage control. Although I am no longer working on this problem, this project is being actively worked on by Prof. Hajiesmaili.&lt;/p&gt;
+&lt;p&gt;[1]: &lt;a href=&#34;https://arxiv.org/abs/1901.04372&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Online Inventory Management with Application to Energy Procurement in Data Centers&lt;/a&gt;
+[2]: &lt;a href=&#34;https://arxiv.org/abs/1011.0686&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chains-of-Reasoning at TextGraphs 2019 Shared Task: Reasoning over Chains of Facts for Explainable Multi-hop Inference</title>
+      <link>https://ameyagodbole.github.io/publication/reasoning-over-chains-of-facts-for-explainable-multi-hop-inference/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://ameyagodbole.github.io/publication/reasoning-over-chains-of-facts-for-explainable-multi-hop-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Step Entity-Centric Information Retrieval for Multi-Hop Question Answering</title>
+      <link>https://ameyagodbole.github.io/publication/multi-step-entity-centric-information-retrieval-for-multi-hop-question-answering/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://ameyagodbole.github.io/publication/multi-step-entity-centric-information-retrieval-for-multi-hop-question-answering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Book: Chapter 9 — Convolutional Networks</title>
+      <link>https://ameyagodbole.github.io/post/dl_book_chap9/</link>
       <pubDate>Fri, 29 Jun 2018 00:00:00 -0400</pubDate>
-      <guid>https://ameyagodbole.github.io/post/</guid>
-      <description></description>
+      <guid>https://ameyagodbole.github.io/post/dl_book_chap9/</guid>
+      <description>&lt;p&gt;When discussing deep learning, two models have become the leading buzzwords — &lt;em&gt;Convolutional Neural Networks&lt;/em&gt;, which are the topic of this post, and &lt;em&gt;Recurrent Neural Networks&lt;/em&gt;, which will be discussed soon.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://medium.com/inveterate-learner/deep-learning-book-chapter-9-convolutional-networks-45e43bfc718d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog post&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The venture: &lt;a href=&#34;https://medium.com/inveterate-learner&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Inveterate Learner&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>https://ameyagodbole.github.io/publication/</link>
+      <title>Progressively Balanced Multi-class Neural Trees</title>
+      <link>https://ameyagodbole.github.io/publication/progressively_balanced_multiclass_neural_trees/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 -0500</pubDate>
-      <guid>https://ameyagodbole.github.io/publication/</guid>
+      <guid>https://ameyagodbole.github.io/publication/progressively_balanced_multiclass_neural_trees/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://ameyagodbole.github.io/project/</link>
+      <title>Siamese Neural Networks with Random Forest for detecting duplicate question pairs</title>
+      <link>https://ameyagodbole.github.io/publication/quora_question_pairs/</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 -0500</pubDate>
+      <guid>https://ameyagodbole.github.io/publication/quora_question_pairs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progressively Balanced Multi-class Neural Trees</title>
+      <link>https://ameyagodbole.github.io/project/progressively_balanced_multiclass_neural_trees/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 -0400</pubDate>
-      <guid>https://ameyagodbole.github.io/project/</guid>
+      <guid>https://ameyagodbole.github.io/project/progressively_balanced_multiclass_neural_trees/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Mentor:&lt;/strong&gt; Dr. Prithwijit Guha (Dept. of EEE, IIT Guwahati)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Collaborator:&lt;/strong&gt; Spoorthy Bhat&lt;/p&gt;
+&lt;p&gt;This project was my Bachelor&amp;rsquo;s thesis at IIT Guwahati.&lt;/p&gt;
+&lt;p&gt;The basic idea is to allow each node to learn &lt;strong&gt;oblique partitions&lt;/strong&gt; in the input space as opposed to the axis-aligned partitions learned by a standard &lt;strong&gt;C4.5&lt;/strong&gt; tree. This required the development of a differentiable criterion.&lt;/p&gt;
+&lt;p&gt;During the course of the project we realized that this hierarchical partitioning results in &lt;strong&gt;data-thinning&lt;/strong&gt; (i.e. as we go down the tree, the number of samples reaching a node go on decreasing). This causes the trained nodes to be biased when class distributions become unbalanced. Consequently, we resort to &lt;strong&gt;data balancing&lt;/strong&gt;. We tested different methods of artificially balancing the class distribution in the data at each node.&lt;/p&gt;
+&lt;p&gt;Our method gave comparable accuracy to existing classifiers on 10 benchmark datasets. &lt;em&gt;What is the gain?&lt;/em&gt; The learned trees require fewer computations at test time (on average over the test set) than a multi-layer perceptron (MLP) of comparable accuracy.&lt;/p&gt;
+&lt;p&gt;We designed the framework for training the decision tree and node parameters, and testing the classifier using the Tensorflow package.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Commercial Segmentation in Television Stream</title>
+      <link>https://ameyagodbole.github.io/project/commercial_segmentation_in_television_stream/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 -0400</pubDate>
+      <guid>https://ameyagodbole.github.io/project/commercial_segmentation_in_television_stream/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Mentor:&lt;/strong&gt; Dr. Prithwijit Guha (Dept. of EEE, IIT Guwahati)&lt;/p&gt;
+&lt;p&gt;The problem of detecting when a television stream has switched from content to commercials (advertisements) is difficult because of the wide range of presentation formats available. Even trickier is detecting inter-commercial transitions. Once these transitions are accurately predicted, methods can be developed to further identify the product being advertised. This problem is of importance to companies and advertisers both, as it helps provide credibility to the claimed number times a particular commercial was broadcasted.&lt;/p&gt;
+&lt;p&gt;Boiled down to the basics: &lt;em&gt;the project aimed at developing a classifier that could accurately predict whether a scene change resulted in the start/end of a commercial.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The project is being developed by the &lt;strong&gt;Multimedia Analytics Lab (IIT Guwahati)&lt;/strong&gt;. I participated in the project as a student intern. My role involved &lt;strong&gt;collecting and cleaning a dataset, structuring the experiments, and implementing baselines.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quora Question Pairs</title>
+      <link>https://ameyagodbole.github.io/project/quora_question_pairs/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 -0400</pubDate>
+      <guid>https://ameyagodbole.github.io/project/quora_question_pairs/</guid>
       <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid></guid>
-      <description></description>
+      <title>Bufferless Routeing in Network-On-Chip</title>
+      <link>https://ameyagodbole.github.io/project/bufferless_routeing_in_network_on_chip/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 -0500</pubDate>
+      <guid>https://ameyagodbole.github.io/project/bufferless_routeing_in_network_on_chip/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Mentor:&lt;/strong&gt; Dr. John Jose (Dept. of CSE, IIT Guwahati)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Collaborators:&lt;/strong&gt; Nandan Bedekar, N Hariharan&lt;/p&gt;
+&lt;p&gt;On-chip interconnection networks are gaining popularity due increase in the number of cores on a processor chip. These networks allow multicore processing without the delays introduced by direct wiring. We modified the network traffic simulator &lt;a href=&#34;http://nocs.stanford.edu/booksim.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BookSim 2.0&lt;/a&gt; to study the properties of bufferless routers. In particular, we encoded the &lt;a href=&#34;https://ieeexplore.ieee.org/document/5749724&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;CHIPPER&lt;/strong&gt;&lt;/a&gt; architecture.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ameyagodbole/booksim2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Project repository&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://ameyagodbole.github.io/talk/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ameyagodbole.github.io/talk/</guid>
-      <description></description>
+      <title>Autonomous Intelligent Robot</title>
+      <link>https://ameyagodbole.github.io/project/autonomous_intelligent_robot/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 -0400</pubDate>
+      <guid>https://ameyagodbole.github.io/project/autonomous_intelligent_robot/</guid>
+      <description>&lt;p&gt;The Robotics Club of IIT Guwahati developed this project. The aim was to learn on the go which was facilitated through tutorials by senior members of the club and the institute as a whole. The project resulted in a robot that could:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Map&lt;/strong&gt; its environment and create a 3D rendering of the world using a stereo-camera (which provided depth information). We later migrated to the Kinect sensor&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Localize&lt;/strong&gt; itself in a known map upon initialization&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Navigate&lt;/strong&gt; to a given target location (set in the map)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The software was built on top of the &lt;strong&gt;Robot Operating System (ROS)&lt;/strong&gt; which provide packages for handling all the concurrent processes.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

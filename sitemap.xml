@@ -1,29 +1,189 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ameyagodbole.github.io/authors/aman-dalmia/</loc>
-    <lastmod>2018-06-29T00:00:00-04:00</lastmod>
+    <loc>https://ameyagodbole.github.io/publication-type/0/</loc>
+    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ameyagodbole.github.io/authors/ameya-godbole/</loc>
-    <lastmod>2018-06-29T00:00:00-04:00</lastmod>
+    <loc>https://ameyagodbole.github.io/author/ameya-godbole/</loc>
+    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ameyagodbole.github.io/author/andrew-mccallum/</loc>
+    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ameyagodbole.github.io/</loc>
-    <lastmod>2018-06-29T00:00:00-04:00</lastmod>
+    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ameyagodbole.github.io/authors/</loc>
+    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ameyagodbole.github.io/project/case-based-reasoning/</loc>
+    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ameyagodbole.github.io/tag/cbr/</loc>
+    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ameyagodbole.github.io/tag/kbc/</loc>
+    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ameyagodbole.github.io/author/manzil-zaheer/</loc>
+    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ameyagodbole.github.io/author/nicholas-monath/</loc>
+    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ameyagodbole.github.io/publication/probabilistic-case-based-reasoning-for-open-world-knowledge-graph-completion/</loc>
+    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ameyagodbole.github.io/project/</loc>
+    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ameyagodbole.github.io/publication_types/</loc>
+    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ameyagodbole.github.io/publication/</loc>
+    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ameyagodbole.github.io/author/rajarshi-das/</loc>
+    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ameyagodbole.github.io/tags/</loc>
+    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ameyagodbole.github.io/publication-type/1/</loc>
+    <lastmod>2020-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ameyagodbole.github.io/publication/a-simple-approach-to-case-based-reasoning-in-knowledge-bases/</loc>
+    <lastmod>2020-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ameyagodbole.github.io/author/shehzaad-dhuliawala/</loc>
+    <lastmod>2020-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ameyagodbole.github.io/project/data-center-energy-portfolio-optimization/</loc>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ameyagodbole.github.io/tag/optimization/</loc>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ameyagodbole.github.io/tag/rl/</loc>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ameyagodbole.github.io/author/abhishek-singhal/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ameyagodbole.github.io/publication/reasoning-over-chains-of-facts-for-explainable-multi-hop-inference/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ameyagodbole.github.io/author/dilip-kavarthapu/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ameyagodbole.github.io/author/hamed-zamani/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ameyagodbole.github.io/tag/ir/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ameyagodbole.github.io/author/mo-yu/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ameyagodbole.github.io/publication/multi-step-entity-centric-information-retrieval-for-multi-hop-question-answering/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ameyagodbole.github.io/tag/nlp/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ameyagodbole.github.io/tag/qa/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ameyagodbole.github.io/author/tian-gao/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ameyagodbole.github.io/author/xiaoxiao-guo/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ameyagodbole.github.io/author/zhiyu-gong/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ameyagodbole.github.io/author/aman-dalmia/</loc>
     <lastmod>2018-06-29T00:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ameyagodbole.github.io/tags/cnn/</loc>
+    <loc>https://ameyagodbole.github.io/author/ameya-godbole/</loc>
+    <lastmod>2018-06-29T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ameyagodbole.github.io/tag/cnn/</loc>
     <lastmod>2018-06-29T00:00:00-04:00</lastmod>
   </url>
   
@@ -33,7 +193,7 @@
   </url>
   
   <url>
-    <loc>https://ameyagodbole.github.io/tags/dl-book/</loc>
+    <loc>https://ameyagodbole.github.io/tag/dl-book/</loc>
     <lastmod>2018-06-29T00:00:00-04:00</lastmod>
   </url>
   
@@ -43,32 +203,22 @@
   </url>
   
   <url>
-    <loc>https://ameyagodbole.github.io/tags/</loc>
-    <lastmod>2018-06-29T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ameyagodbole.github.io/publication_types/1/</loc>
+    <loc>https://ameyagodbole.github.io/tag/classification/</loc>
     <lastmod>2018-02-28T00:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ameyagodbole.github.io/tags/classification/</loc>
+    <loc>https://ameyagodbole.github.io/tag/decision-trees/</loc>
     <lastmod>2018-02-28T00:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ameyagodbole.github.io/tags/decision-trees/</loc>
+    <loc>https://ameyagodbole.github.io/tag/ml/</loc>
     <lastmod>2018-02-28T00:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ameyagodbole.github.io/tags/ml/</loc>
-    <lastmod>2018-02-28T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ameyagodbole.github.io/authors/prithwijit-guha/</loc>
+    <loc>https://ameyagodbole.github.io/author/prithwijit-guha/</loc>
     <lastmod>2018-02-28T00:00:00-05:00</lastmod>
   </url>
   
@@ -78,42 +228,27 @@
   </url>
   
   <url>
-    <loc>https://ameyagodbole.github.io/publication_types/</loc>
+    <loc>https://ameyagodbole.github.io/author/spoorthy-bhat/</loc>
     <lastmod>2018-02-28T00:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ameyagodbole.github.io/publication/</loc>
-    <lastmod>2018-02-28T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ameyagodbole.github.io/authors/spoorthy-bhat/</loc>
-    <lastmod>2018-02-28T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ameyagodbole.github.io/publication_types/0/</loc>
+    <loc>https://ameyagodbole.github.io/publication-type/4/</loc>
     <lastmod>2018-01-28T00:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ameyagodbole.github.io/tags/ensemble/</loc>
+    <loc>https://ameyagodbole.github.io/tag/ensemble/</loc>
     <lastmod>2018-01-28T00:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ameyagodbole.github.io/tags/gru/</loc>
+    <loc>https://ameyagodbole.github.io/tag/gru/</loc>
     <lastmod>2018-01-28T00:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ameyagodbole.github.io/tags/nlp/</loc>
-    <lastmod>2018-01-28T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ameyagodbole.github.io/tags/rnn/</loc>
+    <loc>https://ameyagodbole.github.io/tag/rnn/</loc>
     <lastmod>2018-01-28T00:00:00-05:00</lastmod>
   </url>
   
@@ -123,7 +258,7 @@
   </url>
   
   <url>
-    <loc>https://ameyagodbole.github.io/authors/sunil-kumar-sahu/</loc>
+    <loc>https://ameyagodbole.github.io/author/sunil-kumar-sahu/</loc>
     <lastmod>2018-01-28T00:00:00-05:00</lastmod>
   </url>
   
@@ -133,17 +268,12 @@
   </url>
   
   <url>
-    <loc>https://ameyagodbole.github.io/project/</loc>
+    <loc>https://ameyagodbole.github.io/tag/python/</loc>
     <lastmod>2017-08-01T00:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ameyagodbole.github.io/tags/python/</loc>
-    <lastmod>2017-08-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ameyagodbole.github.io/tags/tensorflow/</loc>
+    <loc>https://ameyagodbole.github.io/tag/tensorflow/</loc>
     <lastmod>2017-08-01T00:00:00-04:00</lastmod>
   </url>
   
@@ -153,32 +283,32 @@
   </url>
   
   <url>
-    <loc>https://ameyagodbole.github.io/tags/ffmpeg/</loc>
+    <loc>https://ameyagodbole.github.io/tag/ffmpeg/</loc>
     <lastmod>2017-06-01T00:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ameyagodbole.github.io/tags/image-processing/</loc>
+    <loc>https://ameyagodbole.github.io/tag/image-processing/</loc>
     <lastmod>2017-06-01T00:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ameyagodbole.github.io/tags/video-processing/</loc>
+    <loc>https://ameyagodbole.github.io/tag/video-processing/</loc>
     <lastmod>2017-06-01T00:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ameyagodbole.github.io/tags/keras/</loc>
+    <loc>https://ameyagodbole.github.io/tag/keras/</loc>
     <lastmod>2017-05-01T00:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ameyagodbole.github.io/tags/pandas/</loc>
+    <loc>https://ameyagodbole.github.io/tag/pandas/</loc>
     <lastmod>2017-05-01T00:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ameyagodbole.github.io/tags/python-multiprocessing/</loc>
+    <loc>https://ameyagodbole.github.io/tag/python-multiprocessing/</loc>
     <lastmod>2017-05-01T00:00:00-04:00</lastmod>
   </url>
   
@@ -193,17 +323,17 @@
   </url>
   
   <url>
-    <loc>https://ameyagodbole.github.io/tags/c&#43;&#43;/</loc>
+    <loc>https://ameyagodbole.github.io/tag/c-/</loc>
     <lastmod>2017-02-01T00:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ameyagodbole.github.io/tags/networks/</loc>
+    <loc>https://ameyagodbole.github.io/tag/networks/</loc>
     <lastmod>2017-02-01T00:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ameyagodbole.github.io/tags/oop/</loc>
+    <loc>https://ameyagodbole.github.io/tag/oop/</loc>
     <lastmod>2017-02-01T00:00:00-05:00</lastmod>
   </url>
   
@@ -213,22 +343,18 @@
   </url>
   
   <url>
-    <loc>https://ameyagodbole.github.io/tags/planning/</loc>
+    <loc>https://ameyagodbole.github.io/tag/planning/</loc>
     <lastmod>2015-04-01T00:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ameyagodbole.github.io/tags/ros/</loc>
+    <loc>https://ameyagodbole.github.io/tag/ros/</loc>
     <lastmod>2015-04-01T00:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ameyagodbole.github.io/tags/slam/</loc>
+    <loc>https://ameyagodbole.github.io/tag/slam/</loc>
     <lastmod>2015-04-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ameyagodbole.github.io/authors/admin/</loc>
   </url>
   
   <url>

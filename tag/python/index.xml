@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python | APG</title>
+    <link>https://ameyagodbole.github.io/tag/python/</link>
+      <atom:link href="https://ameyagodbole.github.io/tag/python/index.xml" rel="self" type="application/rss+xml" />
+    <description>python</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2017 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://ameyagodbole.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>python</title>
+      <link>https://ameyagodbole.github.io/tag/python/</link>
+    </image>
+    
+    <item>
+      <title>Progressively Balanced Multi-class Neural Trees</title>
+      <link>https://ameyagodbole.github.io/project/progressively_balanced_multiclass_neural_trees/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 -0400</pubDate>
+      <guid>https://ameyagodbole.github.io/project/progressively_balanced_multiclass_neural_trees/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Mentor:&lt;/strong&gt; Dr. Prithwijit Guha (Dept. of EEE, IIT Guwahati)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Collaborator:&lt;/strong&gt; Spoorthy Bhat&lt;/p&gt;
+&lt;p&gt;This project was my Bachelor&amp;rsquo;s thesis at IIT Guwahati.&lt;/p&gt;
+&lt;p&gt;The basic idea is to allow each node to learn &lt;strong&gt;oblique partitions&lt;/strong&gt; in the input space as opposed to the axis-aligned partitions learned by a standard &lt;strong&gt;C4.5&lt;/strong&gt; tree. This required the development of a differentiable criterion.&lt;/p&gt;
+&lt;p&gt;During the course of the project we realized that this hierarchical partitioning results in &lt;strong&gt;data-thinning&lt;/strong&gt; (i.e. as we go down the tree, the number of samples reaching a node go on decreasing). This causes the trained nodes to be biased when class distributions become unbalanced. Consequently, we resort to &lt;strong&gt;data balancing&lt;/strong&gt;. We tested different methods of artificially balancing the class distribution in the data at each node.&lt;/p&gt;
+&lt;p&gt;Our method gave comparable accuracy to existing classifiers on 10 benchmark datasets. &lt;em&gt;What is the gain?&lt;/em&gt; The learned trees require fewer computations at test time (on average over the test set) than a multi-layer perceptron (MLP) of comparable accuracy.&lt;/p&gt;
+&lt;p&gt;We designed the framework for training the decision tree and node parameters, and testing the classifier using the Tensorflow package.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quora Question Pairs</title>
+      <link>https://ameyagodbole.github.io/project/quora_question_pairs/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 -0400</pubDate>
+      <guid>https://ameyagodbole.github.io/project/quora_question_pairs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
