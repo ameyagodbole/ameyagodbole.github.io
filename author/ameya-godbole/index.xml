@@ -5,7 +5,7 @@
     <link>https://ameyagodbole.github.io/author/ameya-godbole/</link>
       <atom:link href="https://ameyagodbole.github.io/author/ameya-godbole/index.xml" rel="self" type="application/rss+xml" />
     <description>Ameya Godbole</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 18 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Jun 2018 00:00:00 -0400</lastBuildDate>
     <image>
       <url>https://ameyagodbole.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Ameya Godbole</title>
@@ -13,51 +13,14 @@
     </image>
     
     <item>
-      <title>Probabilistic Case-based Reasoning for Open-World Knowledge Graph Completion</title>
-      <link>https://ameyagodbole.github.io/publication/probabilistic-case-based-reasoning-for-open-world-knowledge-graph-completion/</link>
-      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://ameyagodbole.github.io/publication/probabilistic-case-based-reasoning-for-open-world-knowledge-graph-completion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Simple Approach to Case-Based Reasoning in Knowledge Bases</title>
-      <link>https://ameyagodbole.github.io/publication/a-simple-approach-to-case-based-reasoning-in-knowledge-bases/</link>
-      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://ameyagodbole.github.io/publication/a-simple-approach-to-case-based-reasoning-in-knowledge-bases/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chains-of-Reasoning at TextGraphs 2019 Shared Task: Reasoning over Chains of Facts for Explainable Multi-hop Inference</title>
-      <link>https://ameyagodbole.github.io/publication/reasoning-over-chains-of-facts-for-explainable-multi-hop-inference/</link>
-      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://ameyagodbole.github.io/publication/reasoning-over-chains-of-facts-for-explainable-multi-hop-inference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-Step Entity-Centric Information Retrieval for Multi-Hop Question Answering</title>
-      <link>https://ameyagodbole.github.io/publication/multi-step-entity-centric-information-retrieval-for-multi-hop-question-answering/</link>
-      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://ameyagodbole.github.io/publication/multi-step-entity-centric-information-retrieval-for-multi-hop-question-answering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Progressively Balanced Multi-class Neural Trees</title>
-      <link>https://ameyagodbole.github.io/publication/progressively_balanced_multiclass_neural_trees/</link>
-      <pubDate>Wed, 28 Feb 2018 00:00:00 -0500</pubDate>
-      <guid>https://ameyagodbole.github.io/publication/progressively_balanced_multiclass_neural_trees/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Siamese Neural Networks with Random Forest for detecting duplicate question pairs</title>
-      <link>https://ameyagodbole.github.io/publication/quora_question_pairs/</link>
-      <pubDate>Sun, 28 Jan 2018 00:00:00 -0500</pubDate>
-      <guid>https://ameyagodbole.github.io/publication/quora_question_pairs/</guid>
-      <description></description>
+      <title>Deep Learning Book: Chapter 9 — Convolutional Networks</title>
+      <link>https://ameyagodbole.github.io/post/dl_book_chap9/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 -0400</pubDate>
+      <guid>https://ameyagodbole.github.io/post/dl_book_chap9/</guid>
+      <description>&lt;p&gt;When discussing deep learning, two models have become the leading buzzwords — &lt;em&gt;Convolutional Neural Networks&lt;/em&gt;, which are the topic of this post, and &lt;em&gt;Recurrent Neural Networks&lt;/em&gt;, which will be discussed soon.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://medium.com/inveterate-learner/deep-learning-book-chapter-9-convolutional-networks-45e43bfc718d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog post&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The venture: &lt;a href=&#34;https://medium.com/inveterate-learner&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Inveterate Learner&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
