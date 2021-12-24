@@ -5,12 +5,20 @@
     <link>https://ameyagodbole.github.io/</link>
       <atom:link href="https://ameyagodbole.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>APG</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 18 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ameyagodbole.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ameyagodbole.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>APG</title>
       <link>https://ameyagodbole.github.io/</link>
     </image>
+    
+    <item>
+      <title>Case-based Reasoning for Natural Language Queries over Knowledge Bases</title>
+      <link>https://ameyagodbole.github.io/publication/case-based-reasoning-for-natural-language-queries-over-knowledge-bases/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://ameyagodbole.github.io/publication/case-based-reasoning-for-natural-language-queries-over-knowledge-bases/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Case-Based Reasoning</title>
@@ -85,7 +93,7 @@
     <item>
       <title>Deep Learning Book: Chapter 9 — Convolutional Networks</title>
       <link>https://ameyagodbole.github.io/post/dl_book_chap9/</link>
-      <pubDate>Fri, 29 Jun 2018 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 -0700</pubDate>
       <guid>https://ameyagodbole.github.io/post/dl_book_chap9/</guid>
       <description>&lt;p&gt;When discussing deep learning, two models have become the leading buzzwords — &lt;em&gt;Convolutional Neural Networks&lt;/em&gt;, which are the topic of this post, and &lt;em&gt;Recurrent Neural Networks&lt;/em&gt;, which will be discussed soon.&lt;/p&gt;
 &lt;p&gt;The &lt;a href=&#34;https://medium.com/inveterate-learner/deep-learning-book-chapter-9-convolutional-networks-45e43bfc718d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog post&lt;/a&gt;&lt;/p&gt;
@@ -96,7 +104,7 @@
     <item>
       <title>Progressively Balanced Multi-class Neural Trees</title>
       <link>https://ameyagodbole.github.io/publication/progressively_balanced_multiclass_neural_trees/</link>
-      <pubDate>Wed, 28 Feb 2018 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 -0800</pubDate>
       <guid>https://ameyagodbole.github.io/publication/progressively_balanced_multiclass_neural_trees/</guid>
       <description></description>
     </item>
@@ -104,7 +112,7 @@
     <item>
       <title>Siamese Neural Networks with Random Forest for detecting duplicate question pairs</title>
       <link>https://ameyagodbole.github.io/publication/quora_question_pairs/</link>
-      <pubDate>Sun, 28 Jan 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 -0800</pubDate>
       <guid>https://ameyagodbole.github.io/publication/quora_question_pairs/</guid>
       <description></description>
     </item>
@@ -112,7 +120,7 @@
     <item>
       <title>Progressively Balanced Multi-class Neural Trees</title>
       <link>https://ameyagodbole.github.io/project/progressively_balanced_multiclass_neural_trees/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 -0700</pubDate>
       <guid>https://ameyagodbole.github.io/project/progressively_balanced_multiclass_neural_trees/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Mentor:&lt;/strong&gt; Dr. Prithwijit Guha (Dept. of EEE, IIT Guwahati)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Collaborator:&lt;/strong&gt; Spoorthy Bhat&lt;/p&gt;
@@ -127,7 +135,7 @@
     <item>
       <title>Commercial Segmentation in Television Stream</title>
       <link>https://ameyagodbole.github.io/project/commercial_segmentation_in_television_stream/</link>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 -0700</pubDate>
       <guid>https://ameyagodbole.github.io/project/commercial_segmentation_in_television_stream/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Mentor:&lt;/strong&gt; Dr. Prithwijit Guha (Dept. of EEE, IIT Guwahati)&lt;/p&gt;
 &lt;p&gt;The problem of detecting when a television stream has switched from content to commercials (advertisements) is difficult because of the wide range of presentation formats available. Even trickier is detecting inter-commercial transitions. Once these transitions are accurately predicted, methods can be developed to further identify the product being advertised. This problem is of importance to companies and advertisers both, as it helps provide credibility to the claimed number times a particular commercial was broadcasted.&lt;/p&gt;
@@ -139,7 +147,7 @@
     <item>
       <title>Quora Question Pairs</title>
       <link>https://ameyagodbole.github.io/project/quora_question_pairs/</link>
-      <pubDate>Mon, 01 May 2017 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 01 May 2017 00:00:00 -0700</pubDate>
       <guid>https://ameyagodbole.github.io/project/quora_question_pairs/</guid>
       <description></description>
     </item>
@@ -147,7 +155,7 @@
     <item>
       <title>Bufferless Routeing in Network-On-Chip</title>
       <link>https://ameyagodbole.github.io/project/bufferless_routeing_in_network_on_chip/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 -0800</pubDate>
       <guid>https://ameyagodbole.github.io/project/bufferless_routeing_in_network_on_chip/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Mentor:&lt;/strong&gt; Dr. John Jose (Dept. of CSE, IIT Guwahati)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Collaborators:&lt;/strong&gt; Nandan Bedekar, N Hariharan&lt;/p&gt;
@@ -159,7 +167,7 @@
     <item>
       <title>Autonomous Intelligent Robot</title>
       <link>https://ameyagodbole.github.io/project/autonomous_intelligent_robot/</link>
-      <pubDate>Wed, 01 Apr 2015 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 -0700</pubDate>
       <guid>https://ameyagodbole.github.io/project/autonomous_intelligent_robot/</guid>
       <description>&lt;p&gt;The Robotics Club of IIT Guwahati developed this project. The aim was to learn on the go which was facilitated through tutorials by senior members of the club and the institute as a whole. The project resulted in a robot that could:&lt;/p&gt;
 &lt;ul&gt;
