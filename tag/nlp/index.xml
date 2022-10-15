@@ -5,28 +5,12 @@
     <link>https://ameyagodbole.github.io/tag/nlp/</link>
       <atom:link href="https://ameyagodbole.github.io/tag/nlp/index.xml" rel="self" type="application/rss+xml" />
     <description>NLP</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 28 Jan 2018 00:00:00 -0800</lastBuildDate>
     <image>
       <url>https://ameyagodbole.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>NLP</title>
       <link>https://ameyagodbole.github.io/tag/nlp/</link>
     </image>
-    
-    <item>
-      <title>Chains-of-Reasoning at TextGraphs 2019 Shared Task: Reasoning over Chains of Facts for Explainable Multi-hop Inference</title>
-      <link>https://ameyagodbole.github.io/publication/reasoning-over-chains-of-facts-for-explainable-multi-hop-inference/</link>
-      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://ameyagodbole.github.io/publication/reasoning-over-chains-of-facts-for-explainable-multi-hop-inference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-Step Entity-Centric Information Retrieval for Multi-Hop Question Answering</title>
-      <link>https://ameyagodbole.github.io/publication/multi-step-entity-centric-information-retrieval-for-multi-hop-question-answering/</link>
-      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://ameyagodbole.github.io/publication/multi-step-entity-centric-information-retrieval-for-multi-hop-question-answering/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Siamese Neural Networks with Random Forest for detecting duplicate question pairs</title>

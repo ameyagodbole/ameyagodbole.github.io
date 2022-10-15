@@ -759,7 +759,9 @@
 <p>We adapt this system for knowledge graph completion by using the training graph as the store of solved cases. Similar entities are found by nearest neighbors using a simple one-hot representation based on connected relations (this captures the notion of entity types). Solutions are paths (sequence of relations) that reach the answer node. Then starting from the query entity, we traverse the graph using the paths collected. If such a system can achieve high accuracy, it is appealing owing to its simplicity, interpretability, and scalability.</p>
 <p>We demonstrated that this simple system is highly performant in <a href="https://ameyagodbole.github.io/publication/a-simple-approach-to-case-based-reasoning-in-knowledge-bases/"><code>A Simple Approach to Case-Based Reasoning in Knowledge Bases</code></a>.</p>
 <p>After performing an error analysis on this system, we then imposed a probabilistic structure to allow the system to weight the answers. Concretely, we use the prior probability of a path reaching the tail entity for the given query relation and the precision of that path type to downweight spurious paths. We use clustering to help aggregate probabilitities. We demonstrated in <a href="https://ameyagodbole.github.io/publication/probabilistic-case-based-reasoning-for-open-world-knowledge-graph-completion/"><code>Probabilistic Case-based Reasoning for Open-World Knowledge Graph Completion</code></a> that this systems matches/outperforms baselines on FB122, WN18RR and Nell-995. Moreover, we demonstrated that this method can be applied to dynamic <em>growing</em> KGs with minimal overhead whereas the best embedding based methods deteriorate with successive KG updates.</p>
-<p>Future Work: We are experimenting with extending this reasoning strategy to question answering systems. A lot of challenges arise with moving from the structured world of knowledge graphs to unstructured text.</p>
+<p>We further entended this strategy to <a href="https://ameyagodbole.github.io/publication/case-based-reasoning-for-natural-language-queries-over-knowledge-bases/"><code>Case-based Reasoning for Natural Language Queries over Knowledge Bases</code></a> by relying on the strengths of pre-trained generative language models. In this setting, we are expected to generate a SPARQL program given a natural language question. We utilized cases as additional input when conditionally generating the output program (this is reminiscent of prompting and in-context learning that has gained attention in recent years).</p>
+<p>The previous approach requires supervision in the form of output SPARQL programs. In <a href="https://ameyagodbole.github.io/publication/knowledge-base-question-answering-by-case-based-reasoning-over-subgraphs/"><code>Knowledge Base Question Answering by Case-based Reasoning over Subgraphs</code></a>, we further relax this assumption; we diesn a system to answer natural language questions when only answer annotations are available. We designed a contrastive learning based training scheme for graph neural networks (GNN). The answer nodes are found by matching analogous nodes between query and case subgraphs.</p>
+<!-- Future Work: We are experimenting with extending this reasoning strategy to question answering systems. A lot of challenges arise with moving from the structured world of knowledge graphs to unstructured text. -->
 
     </div>
 
@@ -887,7 +889,7 @@
     <div class="media-body">
       <h5 class="card-title"><a href="https://ameyagodbole.github.io/">Ameya Godbole</a></h5>
       <h6 class="card-subtitle">PhD Student</h6>
-      <p class="card-text">My research interests are focused on natural language processing.</p>
+      <p class="card-text">My research interests are reasoning and generalization in NLP.</p>
       <ul class="network-icon" aria-hidden="true">
   
     
@@ -993,6 +995,63 @@
       
       
         <h2>Publications</h2>
+        
+          
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/knowledge-base-question-answering-by-case-based-reasoning-over-subgraphs/" >Knowledge Base Question Answering by Case-based Reasoning over Subgraphs</a>
+    </div>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/author/rajarshi-das/">Rajarshi Das</a></span>, <span class="author-highlighted">
+      <a href="/author/ameya-godbole/">Ameya Godbole</a></span>, <span >
+      <a href="/author/ankita-naik/">Ankita Naik</a></span>, <span >
+      <a href="/author/elliot-tower/">Elliot Tower</a></span>, <span >
+      <a href="/author/manzil-zaheer/">Manzil Zaheer</a></span>, <span >
+      <a href="/author/hannaneh-hajishirzi/">Hannaneh Hajishirzi</a></span>, <span >
+      <a href="/author/robin-jia/">Robin Jia</a></span>, <span >
+      <a href="/author/andrew-mccallum/">Andrew McCallum</a></span>
+      </div>
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
         
           
 
@@ -1182,6 +1241,16 @@
 
   
 
+  
+  <p class="powered-by">
+    
+      <a href="/privacy/">Privacy Policy</a>
+    
+    
+       &middot; 
+      <a href="/terms/">Terms</a>
+    
+  </p>
   
 
   

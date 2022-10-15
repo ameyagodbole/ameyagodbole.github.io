@@ -5,7 +5,7 @@
     <link>https://ameyagodbole.github.io/</link>
       <atom:link href="https://ameyagodbole.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>APG</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ameyagodbole.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>APG</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>Benchmarking Long-tail Generalization with Likelihood Splits</title>
+      <link>https://ameyagodbole.github.io/publication/benchmarking-long-tail-generalization-with-likelihood-splits/</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://ameyagodbole.github.io/publication/benchmarking-long-tail-generalization-with-likelihood-splits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge Base Question Answering by Case-based Reasoning over Subgraphs</title>
+      <link>https://ameyagodbole.github.io/publication/knowledge-base-question-answering-by-case-based-reasoning-over-subgraphs/</link>
+      <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://ameyagodbole.github.io/publication/knowledge-base-question-answering-by-case-based-reasoning-over-subgraphs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Case-based Reasoning for Natural Language Queries over Knowledge Bases</title>
       <link>https://ameyagodbole.github.io/publication/case-based-reasoning-for-natural-language-queries-over-knowledge-bases/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://ameyagodbole.github.io/publication/case-based-reasoning-for-natural-language-queries-over-knowledge-bases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Case-based Reasoning for Open-World Knowledge Graph Completion</title>
+      <link>https://ameyagodbole.github.io/publication/probabilistic-case-based-reasoning-for-open-world-knowledge-graph-completion/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://ameyagodbole.github.io/publication/probabilistic-case-based-reasoning-for-open-world-knowledge-graph-completion/</guid>
       <description></description>
     </item>
     
@@ -38,16 +62,10 @@
 &lt;p&gt;We adapt this system for knowledge graph completion by using the training graph as the store of solved cases. Similar entities are found by nearest neighbors using a simple one-hot representation based on connected relations (this captures the notion of entity types). Solutions are paths (sequence of relations) that reach the answer node. Then starting from the query entity, we traverse the graph using the paths collected. If such a system can achieve high accuracy, it is appealing owing to its simplicity, interpretability, and scalability.&lt;/p&gt;
 &lt;p&gt;We demonstrated that this simple system is highly performant in &lt;a href=&#34;https://ameyagodbole.github.io/publication/a-simple-approach-to-case-based-reasoning-in-knowledge-bases/&#34;&gt;&lt;code&gt;A Simple Approach to Case-Based Reasoning in Knowledge Bases&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;After performing an error analysis on this system, we then imposed a probabilistic structure to allow the system to weight the answers. Concretely, we use the prior probability of a path reaching the tail entity for the given query relation and the precision of that path type to downweight spurious paths. We use clustering to help aggregate probabilitities. We demonstrated in &lt;a href=&#34;https://ameyagodbole.github.io/publication/probabilistic-case-based-reasoning-for-open-world-knowledge-graph-completion/&#34;&gt;&lt;code&gt;Probabilistic Case-based Reasoning for Open-World Knowledge Graph Completion&lt;/code&gt;&lt;/a&gt; that this systems matches/outperforms baselines on FB122, WN18RR and Nell-995. Moreover, we demonstrated that this method can be applied to dynamic &lt;em&gt;growing&lt;/em&gt; KGs with minimal overhead whereas the best embedding based methods deteriorate with successive KG updates.&lt;/p&gt;
-&lt;p&gt;Future Work: We are experimenting with extending this reasoning strategy to question answering systems. A lot of challenges arise with moving from the structured world of knowledge graphs to unstructured text.&lt;/p&gt;
+&lt;p&gt;We further entended this strategy to &lt;a href=&#34;https://ameyagodbole.github.io/publication/case-based-reasoning-for-natural-language-queries-over-knowledge-bases/&#34;&gt;&lt;code&gt;Case-based Reasoning for Natural Language Queries over Knowledge Bases&lt;/code&gt;&lt;/a&gt; by relying on the strengths of pre-trained generative language models. In this setting, we are expected to generate a SPARQL program given a natural language question. We utilized cases as additional input when conditionally generating the output program (this is reminiscent of prompting and in-context learning that has gained attention in recent years).&lt;/p&gt;
+&lt;p&gt;The previous approach requires supervision in the form of output SPARQL programs. In &lt;a href=&#34;https://ameyagodbole.github.io/publication/knowledge-base-question-answering-by-case-based-reasoning-over-subgraphs/&#34;&gt;&lt;code&gt;Knowledge Base Question Answering by Case-based Reasoning over Subgraphs&lt;/code&gt;&lt;/a&gt;, we further relax this assumption; we diesn a system to answer natural language questions when only answer annotations are available. We designed a contrastive learning based training scheme for graph neural networks (GNN). The answer nodes are found by matching analogous nodes between query and case subgraphs.&lt;/p&gt;
+&lt;!-- Future Work: We are experimenting with extending this reasoning strategy to question answering systems. A lot of challenges arise with moving from the structured world of knowledge graphs to unstructured text. --&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Probabilistic Case-based Reasoning for Open-World Knowledge Graph Completion</title>
-      <link>https://ameyagodbole.github.io/publication/probabilistic-case-based-reasoning-for-open-world-knowledge-graph-completion/</link>
-      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://ameyagodbole.github.io/publication/probabilistic-case-based-reasoning-for-open-world-knowledge-graph-completion/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -98,6 +116,24 @@
       <description>&lt;p&gt;When discussing deep learning, two models have become the leading buzzwords — &lt;em&gt;Convolutional Neural Networks&lt;/em&gt;, which are the topic of this post, and &lt;em&gt;Recurrent Neural Networks&lt;/em&gt;, which will be discussed soon.&lt;/p&gt;
 &lt;p&gt;The &lt;a href=&#34;https://medium.com/inveterate-learner/deep-learning-book-chapter-9-convolutional-networks-45e43bfc718d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog post&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The venture: &lt;a href=&#34;https://medium.com/inveterate-learner&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Inveterate Learner&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://ameyagodbole.github.io/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://ameyagodbole.github.io/privacy/</guid>
+      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>https://ameyagodbole.github.io/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://ameyagodbole.github.io/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
